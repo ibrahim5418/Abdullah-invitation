@@ -1,0 +1,11 @@
+# dependencies (Vercel reinstalls these)
+node_modules/
+
+# build output (Vercel builds this itself)
+dist/
+
+# local editor / tool settings
+.claude/
+.vscode/
+*.log
+.DS_Store
