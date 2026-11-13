@@ -16,18 +16,18 @@ export const invitation = {
   groom: {
     name: 'Abdullah',
     relation: 'Son of',
-    parents: 'Mr. Mohamed Moinudeen',
+    parents: 'A. R. Mohamed Moinudeen',
   },
   bride: {
     name: 'Sarah',
     relation: 'Daughter of',
-    parents: 'Mr. Ilyas',
+    parents: 'T. Ilyas',
   },
 
   welcome: {
     title: 'With joyful hearts',
     text:
-      'Abdullah and Sarah are honoured to welcome you as they begin a new chapter together. Your presence, prayers, and blessings will make this celebration even more meaningful.',
+      'We are honoured to welcome you as we begin a new chapter together. Your presence, prayers, and blessings will make this celebration even more meaningful.',
   },
 
   // Nikah date & time — used by the scratch card and the countdown.
