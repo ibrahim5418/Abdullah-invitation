@@ -222,7 +222,7 @@ img { display: block; }
 .hero-art .arch-intro,
 .hero-art .arch-outro { font-size: 3.05cqw; line-height: 1.35; }
 .hero-art .arch-outro { margin-top: 2.6cqw; }
-.hero-art .script-name { font-size: 10.8cqw; margin-top: 1.4cqw; }
+.hero-art .script-name { font-size: 13.2cqw; line-height: 0.92; margin-top: 0.8cqw; }
 .hero-art .parents { font-size: 2.35cqw; margin-top: 0.6cqw; }
 .hero-art .amp { font-size: 5.2cqw; margin-top: 1.2cqw; }
 
@@ -284,9 +284,11 @@ img { display: block; }
 }
 .arch-outro { margin-top: 6cqw; }
 .script-name {
-  font-family: var(--script);
+  /* Italianno: its capital "A" reads clearly (Great Vibes' looks like a lowercase "a").
+     It runs small, so it is sized up relative to the other script text. */
+  font-family: 'Italianno', var(--script);
   font-weight: 400;
-  font-size: 13.4cqw;
+  font-size: 16.5cqw;
   line-height: 1.05;
   color: var(--green-ink);
   margin-top: 4cqw;
