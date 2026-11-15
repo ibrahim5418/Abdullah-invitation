@@ -83,7 +83,7 @@ export const invitation = {
   },
 
   presence: {
-    title: 'Your presence is our present',
+    title: 'A beautiful beginning made more special with you',
     text:
       'Your love, duas, blessings, and presence are the greatest gifts we could ever ask for. We feel truly grateful to celebrate this special day with you.',
   },
