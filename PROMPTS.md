@@ -59,19 +59,40 @@ wedding stationery, photorealistic, 8k, symmetrical, centred.
 - **Last frame:** *(optional)* a plain white image, or leave empty
 - **Aspect ratio:** 9:16 · **Length:** 8s · **Model:** Veo (highest quality available)
 
+The seal stays **whole** the entire time, so nothing breaks through the monogram.
+
+> **Important:** use **Frames to Video** and upload `envelope.jpg` as the **first frame**. With Text to Video
+> or Ingredients to Video, Flow invents a brand-new envelope (plain envelope on a dark table) and your design is lost.
+
 ```
-Static locked-off camera, no camera movement, no zoom. The ivory envelope with the gold wax seal from the
-first frame. After a short still moment, a thin crack appears down the middle of the gold wax seal. The seal
-splits horizontally into two halves: the bottom half stays on the envelope, while the top half stays stuck to
-the flap. The top V-shaped flap slowly lifts and folds upward and back out of the top of the frame, carrying
-the top half of the seal with it. As the flap opens, warm soft golden-white light glows from inside the envelope
-and grows brighter and brighter, with gentle light rays and floating sparkles, until the light completely
-fills the frame and the whole screen fades to pure soft white. Elegant, slow, cinematic, luxurious, realistic
-paper and wax physics, shallow depth of field. No hands, no people, no text appearing.
+Animate this exact image. Keep everything exactly as it is in the image: the same handmade ivory paper, the
+same gold wax seal with the olive branch and the "A&S" monogram, the same gold floral line art and the same
+emerald green Mughal arch panel with the gold geometric pattern at the bottom. Same framing, same close-up,
+static locked-off camera, no camera movement, no zoom, no new objects, no background or table.
+Motion: after a short still moment, the wax seal glows softly with a warm golden shimmer. Then the top
+V-shaped paper flap slowly and smoothly lifts upward and away, carrying the complete wax seal with it as one
+solid, unbroken piece; the seal and its monogram stay perfectly whole the whole time. Warm soft golden-white
+light glows from under the opened flap and grows brighter and brighter, with gentle light rays and floating
+golden sparkles, until the light fills the frame and the whole screen fades to pure soft white.
+Slow, graceful, elegant, luxurious, realistic paper motion. No hands, no people, no new text.
 ```
 
-**Audio:** turn sound off, or use: *"soft paper rustle and a gentle magical shimmer, no music, no voice"*.
-The website plays its own background music.
+**Alternative (if the seal still breaks):** the seal melts into light instead of moving.
+
+```
+Animate this exact image and keep the whole design unchanged (same ivory paper, same seal, same gold floral
+art, same emerald Mughal arch panel, same close-up framing). Static locked-off camera, no camera movement,
+no zoom, no new background. After a short still moment, the whole wax seal begins to glow warm
+gold from within, then gently dissolves as one piece into a soft swirl of tiny golden sparkles that drift
+upward and fade. With the seal gone, the top V-shaped flap slowly and smoothly lifts and folds upward and back
+out of the top of the frame. Warm soft golden-white light pours out from inside the envelope and grows brighter
+and brighter, with gentle light rays and floating sparkles, until the light fills the frame and the whole
+screen fades to pure soft white. Elegant, slow, magical, cinematic, luxurious, shallow depth of field.
+No hands, no people, no new text appearing.
+```
+
+**Audio:** turn sound off, or use: *"soft gentle paper rustle and a light magical chime shimmer, no cracking,
+no creaking, no music, no voice"*. The website plays its own background music.
 
 ---
 
